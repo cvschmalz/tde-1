@@ -1,0 +1,10 @@
+3
+U
+apple, banana, strawberry
+banana, mango, grape
+I
+apple, banana, strawberry
+"apple", "banana", strawberry
+U
+"apple", "banana", strawberry
+mango, grape

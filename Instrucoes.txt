@@ -1,0 +1,5 @@
+Como usar:
+
+1) Copie e cole um arquivo .txt de "files" para o mesmo local que o arquivo tde.py
+2) Renomeie o arquivo .txt para "operacoes"
+3) Rode o tde.py
